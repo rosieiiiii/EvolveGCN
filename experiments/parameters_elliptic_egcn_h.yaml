@@ -18,7 +18,7 @@ task: node_cls
 class_weights: [ 0.25, 0.75]
 use_2_hot_node_feats: False
 use_1_hot_node_feats: False
-save_node_embeddings: True
+save_node_embeddings: False
 
 train_proportion: 0.65
 dev_proportion: 0.1

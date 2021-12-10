@@ -13,7 +13,7 @@ This repository contains the code for [EvolveGCN: Evolving Graph Convolutional N
 - uc_irvine: Downloadable from http://konect.uni-koblenz.de/networks/opsahl-ucsocial
 - autonomous systems: Downloadable from http://snap.stanford.edu/data/as-733.html
 - reddit hyperlink network: Downloadable from http://snap.stanford.edu/data/soc-RedditHyperlinks.html
-- elliptic: A preprocessed version of https://www.kaggle.com/ellipticco/elliptic-data-set is provided in the following link: ~~https://ibm.box.com/s/j04m8lwoqktjixke2gj7lgllrvvdidme.~~ Untar the file in the 'data' folder for use.
+- elliptic: A preprocessed version of https://www.kaggle.com/ellipticco/elliptic-data-set can be obtained from [here]().
 
 Update on elliptic: The box link is no longer valid. Please see the [instruction](elliptic_construction.md) to manually prepare the preprocessed version.
  
